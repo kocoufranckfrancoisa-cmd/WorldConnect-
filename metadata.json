@@ -1,0 +1,6 @@
+{
+  "name": "WorldConnect",
+  "description": "Connecter le monde, gratuitement et sans frontières. Social Network, Rich Messenger, Games Studio, WorldConnect Productivity & Cloud Storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
